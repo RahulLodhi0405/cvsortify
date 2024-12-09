@@ -48,7 +48,7 @@ preshed==3.0.9
 protobuf==4.25.1
 prov==2.0.0
 pyarrow==14.0.1
-pydantic==1.10.12
+pydantic==2.5.2
 pydantic_core==2.14.5
 pydeck==0.8.1b0
 pydot==1.4.2
@@ -70,7 +70,7 @@ simplejson==3.19.2
 six==1.16.0
 smart-open==6.4.0
 smmap==5.0.1
-spacy==3.8.2
+spacy==3.7.2
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
