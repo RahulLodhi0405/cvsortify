@@ -87,10 +87,5 @@ In the pipeline for this project are several enhancements:
 - **Customization Features**: Offer customization options for tailoring parsing algorithms to specific job roles or industries.
 - **Database Integration and Management**: Implement a more robust database system for long-term storage and efficient data retrieval.
 
-## Team
 
-- **Darsh Patel**: [GitHub Profile](https://github.com/darsh8692)
-- **Dev Patel**: [GitHub Profile](https://github.com/Devv64bit)
-- **Deep Patel**: [GitHub Profile](https://github.com/Deep4GB)
-- **Dravya Patel**: [GitHub Profile](https://github.com/dravyaaa)
 
