@@ -75,7 +75,7 @@ def process_user_mode():
         resume_score = calculate_resume_score(resume_info)
         st.write(f"**Resume Score:** {resume_score}/100")
 
-        # Displaying a custom-styled progress bar with gradient colors
+        # Displaying a custom-styled progress bar with gradient color
         percentage = resume_score
         percentage_str = str(percentage)
         bar = (
